@@ -1,1 +1,1 @@
-# smart-light-assistant
+# SMART LIGHT ASSISTANT
